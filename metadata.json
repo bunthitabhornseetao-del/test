@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance Tracker",
+  "description": "An elegant, mobile-friendly personal income and expense tracker with monthly summaries, data analysis, and secure Firebase storage supporting Google Auth and guest mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
